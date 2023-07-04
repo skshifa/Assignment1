@@ -1,0 +1,18 @@
+h1{
+    
+}
+p{
+    color:green;
+    margin:50px 50px 5px 50px;
+    border:10px dotted pink;
+    padding:50px 50px 50px 50px;
+    font-family:Verdana;
+    font-size:40px;
+}
+#first {
+    color:red;
+    background:lightblue;
+    font-family:sans-serif;
+    font-size:50px;
+}
+
